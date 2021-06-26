@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
-
+@import url(https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap);
 *
 {
     margin: 0;
@@ -43,3 +42,5 @@ h1{
 section{
     height: 100vh;
 }
+
+/*# sourceMappingURL=main.css.map*/
